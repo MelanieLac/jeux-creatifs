@@ -4,7 +4,10 @@ description: Exploration
 image_url:
 ---
 
-# Session WalkingDev
+# Session WalkingDev Jeux créatifs
+
+![](dilbert-reunions-se-reproduisent.png)
+
 
 ## FAQ
 
@@ -17,7 +20,6 @@ Et si on enrichissait notre vocabulaire du faire-ensemble ?
 En explorant des lieux insolites dans Toulouse, on va échanger sur l'usage de jeux co-créatifs pour penser et faire ensemble. On passe d'une étape à l'autre en changeant d'endroit. On s'inspirera peut être de l'architecture des lieux où l'on passe pour inspirer notre réflexion.
 En mouvement, on profitera du trajet pour débriefer sur la session que l'on vient de faire ou préparer la session suivante.
 
-![](dilbert-reunions-se-reproduisent.png)
 
 ### C'est quand et où ?
 
