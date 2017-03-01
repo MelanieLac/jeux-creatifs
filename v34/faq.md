@@ -4,7 +4,7 @@ description: Exploration
 image_url:
 ---
 
-# Session TRAMPOLEAN
+# Session WalkingDev
 
 ## FAQ
 
@@ -17,15 +17,20 @@ Et si on enrichissait notre vocabulaire du faire-ensemble ?
 En explorant des lieux insolites dans Toulouse, on va échanger sur l'usage de jeux co-créatifs pour penser et faire ensemble. On passe d'une étape à l'autre en changeant d'endroit. On s'inspirera peut être de l'architecture des lieux où l'on passe pour inspirer notre réflexion.
 En mouvement, on profitera du trajet pour débriefer sur la session que l'on vient de faire ou préparer la session suivante.
 
+![dilbert-reunions-se-reproduisent.png]
+
 ### C'est quand et où ?
 
-La marche commencera le ... à ... au 
+La marche commencera le 15 mars à Toulouse au 
 []().
 La journée se termine vers 18h30.
 
 ### C'est pour qui ?
 
-- Les personnes ...
+Coachs, animateurs, facilitateurs, chefs d'orchestre, tout ceux qui travaillent avec des groupes et plus specifiquement:
+- ceux qui savent que les réunions sont devenus un organisme parasite qui se réproduit et qui asservis les être humains qui les organisent et les vivent
+- ceux qui croient qu'un autre monde est possible, souhaitable et déja la où travailler est synonyme de plaisir 
+
 
 
 ### On sera combien ?
