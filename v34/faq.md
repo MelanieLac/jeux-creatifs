@@ -10,9 +10,11 @@ image_url:
 
 ### On va faire quoi ?
 
-L'intention de la journée est de découvrir la culture et les outils ...
-Dans des lieux insolites, en itinérance, en binôme ou en groupe on explore ...
-On passe d'une étape à l'autre en changeant d'endroit.
+Aujourd'hui notre vocabulaire du faire ensemble est très limité: on "réunione", on fait des "tours de table", des "conférences", des "séminaires" les plus créatifs "brainstorment". Certains communautés les agilistes, l'éducation populaire, les théatreux et d'autres encore possèdent un vocabulaire plus riche, mais chacune de ces chapelles a son jargon, lui aussi limité.
+
+Et si on enrichissait notre vocabulaire du faire-ensemble ?
+
+En explorant des lieux insolites dans Toulouse, on va utiliser des lieux qui ne sont pas habituellement utiliser pour travailler afin d'échanger sur l'utilisation de jeux co-créatifs pour penser et faire ensemble. On passe d'une étape à l'autre en changeant d'endroit. On s'inspirera peut être de l'architecture des lieux où l'on passe pour inspirer notre réflexion.
 En mouvement, on profite du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
@@ -32,7 +34,7 @@ Au moins 2, maximum 10, probablement 7 ou 8 !
 
 ### Il faut que je prévois des trucs ?
 
-En gros, il te faut ton **laptop**, ta bonne humeur, de l’eau, des noisettes ou des abricots secs et de quoi t’habiller confortablement pour marcher.
+En gros, il te faut ton **laptop**, du papier et des crayons,  ta bonne humeur, de l’eau, des noisettes ou des abricots secs et de quoi t’habiller confortablement pour marcher.
 
 Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/trampolean/v34/prepare-ton-escapade.md)
 
@@ -52,7 +54,7 @@ En t'inscrivant sur [eventbrite](https://www.eventbrite.fr/e/billets-formation-l
 
 ou
 
-Tu peux aussi nous envoyer un petit mail : [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr) ou [aurelie@flowher.net](mailto:aurelie@flowher.net)
+Tu peux aussi nous envoyer un petit mail : [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr) ou [contact@lilianricaud.com](mailto:contact@lilianricaud.com)
 
 ### Ça coûte combien cette petite escapade ?
 
@@ -70,5 +72,5 @@ A toi d'imaginer le pourquoi du comment !
 
 Tu peux contacter :
 
-- Aurélie - aurelie@flowher.net
+- Lilian - contact@lilianricaud.com
 - Stéphane - stephane@scopyleft.fr
