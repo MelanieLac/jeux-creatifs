@@ -21,7 +21,7 @@ Pendant les trajets pour rejoindre le lieu suivant, on profitera  de la ballade 
 ### C'est quand et où ?
 
 La marche commencera le 15 mars à Toulouse à 9h à
-[L'anartiste](https://lanartiste.org) - [13, rue des Couteliers - Toulouse](http://www.openstreetmap.org/node/1532531242).
+[L'Anartiste](https://lanartiste.org) - [13, rue des Couteliers - Toulouse](http://www.openstreetmap.org/node/1532531242).
 La journée se termine vers 18h30.
 
 ### C'est pour qui ?
