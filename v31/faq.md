@@ -1,11 +1,12 @@
 ---
 title: tout ce qu'il faut savoir
 description: Exploration
-image_url:
+image_url: https://raw.githubusercontent.com/walkingdev/jeux-creatifs/master/media/abeille.jpg
 ---
 
 # Session WalkingDev Jeux créatifs
 
+![](https://raw.githubusercontent.com/walkingdev/jeux-creatifs/master/media/abeille.jpg)
 
 ## FAQ
 
