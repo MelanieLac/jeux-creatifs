@@ -1,11 +1,12 @@
 ---
 title: tout ce qu'il faut savoir
 description: Exploration
-image_url:
+image_url: https://raw.githubusercontent.com/walkingdev/jeux-creatifs/master/media/abeille.jpg
 ---
 
 # Session WalkingDev Jeux créatifs
 
+![](https://raw.githubusercontent.com/walkingdev/jeux-creatifs/master/media/abeille.jpg)
 
 ## FAQ
 
@@ -21,7 +22,7 @@ Pendant les trajets pour rejoindre le lieu suivant, on profitera  de la ballade 
 ### C'est quand et où ?
 
 La marche commencera le 15 mars à Toulouse à 9h à
-[https://lanartiste.org](L'anartiste) - [13, rue des Couteliers - Toulouse](http://www.openstreetmap.org/node/1532531242).
+[L'Anartiste](https://lanartiste.org) - [13, rue des Couteliers - Toulouse](http://www.openstreetmap.org/node/1532531242).
 La journée se termine vers 18h30.
 
 ### C'est pour qui ?
@@ -40,7 +41,7 @@ Au moins 2, maximum 10, probablement 7 ou 8 !
 
 En gros, il faut ta bonne humeur, de l’eau, des noisettes ou des abricots secs et de quoi t’habiller confortablement pour marcher.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/trampolean/v34/prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/jeux-creatifs/blob/master/v31/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
@@ -65,10 +66,6 @@ Pour ce montant tu pourras manger, voyager et boire durant toute la journée.
 ### Et si c’est trop cher pour moi ?
 
 Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va bien trouver une solution.
-
-### Pourquoi Trampolean ?
-
-A toi d'imaginer le pourquoi du comment !
 
 #### Et si j'ai une question ?
 
