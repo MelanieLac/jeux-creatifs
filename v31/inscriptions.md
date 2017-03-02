@@ -1,5 +1,5 @@
 ---
-title: Inscriptions Jeux Créatifs avec Lilian Ricaud et Stéphane Langlois
+title: Inscriptions Jeux Créatifs
 description: Inscriptions au WalkingDev : Walking Dev - Jeux créatifs -Lilian Ricaud et Stéphane Langlois
 image_url:
 ---
