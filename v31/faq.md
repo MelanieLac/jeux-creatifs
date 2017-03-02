@@ -1,39 +1,36 @@
 ---
-title: walkingDev jeux créatifs : tout ce qu'il faut savoir
-description: 
+title: tout ce qu'il faut savoir
+description: Exploration
 image_url:
 ---
 
-# Session TRAMPOLEAN
+# Session WalkingDev Jeux créatifs
+
 
 ## FAQ
 
 ### On va faire quoi ?
 
-L'intention de la journée est de découvrir la culture et les outils "Lean Startup".
-Vous testerez plusieurs projets pour comprendre les étapes et les intégrer.
-Vous repartirez avec votre "Lean Canvas" à la fin de la journée.
-Dans des lieux insolites, en itinérance, en binôme ou en groupe on explore son projet, via un atelier "Lean Canvas", puis on confronte son marché via des interviews et autres expérimentations.
-On passe d'une étape à l'autre en changeant d'endroit.
-En mouvement, on profite du trajet pour débriefer sur la session que l'on vient de faire.
+Aujourd'hui notre vocabulaire du faire ensemble est très limité: on "réunione", on fait des "tours de table", des "conférences", des "séminaires" les plus créatifs "brainstorment". Certaines communautés les agilistes, l'éducation populaire, les impros-théatreux et d'autres encore possèdent un vocabulaire plus riche, mais chacune de ces chapelles a son jargon, lui aussi limité.
+
+Et si on enrichissait notre vocabulaire du faire-ensemble ?
+
+En explorant des lieux insolites dans Toulouse, on va échanger sur l'usage de jeux co-créatifs pour penser et faire ensemble. On passera d'un endroit à l'autre. On s'inspirera peut être de l'architecture des lieux où on se posera pour inspirer notre réflexion.
+Pendant les trajets pour rejoindre le lieu suivant, on profitera  de la ballade pour débriefer sur la session que l'on vient de faire ou préparer la session suivante.
 
 ### C'est quand et où ?
 
-La marche commencera le 10 mars 2017 à 9h au 
-[café cerise, 4 quai de la Daurade – Toulouse](http://www.openstreetmap.org/node/1775896013).
-La journée se termine vers 18h00.
+La marche commencera le 15 mars à Toulouse à 9h à
+[https://lanartiste.org](L'anartiste) - [13, rue des Couteliers - Toulouse](http://www.openstreetmap.org/node/1532531242).
+La journée se termine vers 18h30.
 
 ### C'est pour qui ?
 
-- Les personnes portant un projet et souhaitant le confronter
-- Les entrepreneurs ayant besoin de feedback ou de tester une idée
-- Les Startupers ayant besoin de prendre du recul sur leur projet et valider leur problématique
-- les chefs de projet et managers souhaitant découvrir une nouvelle approche innovante à appliquer aux projets de leur organisation
-- Les développeuses et développeurs souhaitant valider leur problématique et se confronter au terrain
-- Les curieux et curieuses kiffant découvrir l'agilité en se baladant dans la cité.
-- Ceux qui connaissent déjà l'approche viendront pour découvrir un autre point de vue, et gagner en expérience
-
-NB : plus on pratique le "Lean", plus l'on a de bons réflexes d'entrepreneurs innovants.
+- Pour les médiateurs numériques qui pensent qu'un autre monde est en construction.
+- Aux managers qui souhaitent continuer à abaisser leurs postures pour augmenter la facilitation et réduire le contrôle.
+- Ceux qui savent que les réunions sont devenus des organismes parasites qui se reproduisent et qui asservissent les êtres humains.
+- Pour les facilitateurs qui veulent compléter leurs palettes.
+- Aux animateurs de réseaux qui rament pour transformer les organisations.
 
 ### On sera combien ?
 
@@ -41,9 +38,9 @@ Au moins 2, maximum 10, probablement 7 ou 8 !
 
 ### Il faut que je prévois des trucs ?
 
-En gros, il te faut ton **laptop**, ta bonne humeur, de l’eau, des noisettes ou des abricots secs et de quoi t’habiller confortablement pour marcher.
+En gros, il faut ta bonne humeur, de l’eau, des noisettes ou des abricots secs et de quoi t’habiller confortablement pour marcher.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/trampolean/v31/prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/trampolean/v34/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
@@ -53,19 +50,17 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 15 min dans la
 
 ### Je m'inscris où ?
 
-En éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/trampolean/blob/master/v31/inscriptions.md)
+En t'inscrivant sur [eventbrite](https://www.eventbrite.fr/e/billets-walking-dev-jeux-creatifs-lilian-ricaud-et-stephane-langlois-32463592479)
 
 ou
 
-En t'inscrivant sur [eventbrite](https://www.eventbrite.fr/e/billets-journee-dexploration-lean-startup-itinerante-pour-tester-et-valider-son-projet-32122368870)
-
-ou
-
-Tu peux aussi nous envoyer un petit mail : [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr) ou [aurelie@flowher.net](mailto:aurelie@flowher.net)
+Tu peux aussi nous envoyer un petit mail : [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr) ou [contact@lilianricaud.com](mailto:contact@lilianricaud.com)
 
 ### Ça coûte combien cette petite escapade ?
 
-69 € (à noter que ce prix inclue le déjeuner, les boissons et collations sur la journée soit un budget entre 30 et 40€/pers).
+59 € pour les particuliers, et 89 € HT si c’est ta boite qui paye.  
+
+Pour ce montant tu pourras manger, voyager et boire durant toute la journée.
 
 ### Et si c’est trop cher pour moi ?
 
@@ -79,5 +74,5 @@ A toi d'imaginer le pourquoi du comment !
 
 Tu peux contacter :
 
-- Aurélie - [aurelie@flowher.net](mailto:aurelie@flowher.net)
-- Stéphane - [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
+- Lilian - [contact@lilianricaud.com](mailto:contact@lilianricaud.com)
+- Stéphane - [@langlois_s](https://twitter.com/langlois_s)
