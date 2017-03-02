@@ -1,19 +1,13 @@
 ---
-title: walkingDev trampolean : Prépare ton escapade
+title: walkingDev jeux créatifs : Prépare ton escapade
 description: Une petite exploration ça se prépare, voici une petite liste de ce qui nous parait indispensable (ou pas).
 image_url:
 ---
 
-# Session TRAMPOLEAN
+# Session jeux créatifs
 
 ## Ta préparation
 
-### La technique
-- Laptop et chargeur, et **chargé**
-- L’adaptateur vidéo -vga ou hdmi si tu as
-- Une connexion Internet (via ton téléphone par exemple) est un must
-
-### Le reste
 - Chaussures confortable pour marcher
 - Noisettes ou abricots secs
 - Bouteille d’eau

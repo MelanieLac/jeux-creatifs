@@ -1,17 +1,10 @@
 ---
-title: Inscriptions walkingDev trampolean
-description: Liste pour s'inscrire à la session walking-dev Trampolean
+title: Inscriptions Jeux Créatifs avec Lilian Ricaud et Stéphane Langlois
+description: Inscriptions au WalkingDev : Walking Dev - Jeux créatifs -Lilian Ricaud et Stéphane Langlois
 image_url:
 ---
 
 
-# Inscriptions
+# Inscriptions 
 
-Pour t'inscrire, ajoute tes coordonnées en bas de la liste.  
-Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/trampolean/blob/master/v31/faq.md)  
-
-Ou utilise ce service [inscription](https://www.eventbrite.fr/e/billets-journee-dexploration-lean-startup-itinerante-pour-tester-et-valider-son-projet-32122368870)
-
-* nom - prénom - mail - tél
-* Le Guillou - Aurélie - aurelie@flowher.net - 06.07.02.15.56
-* Langlois - Stéphane - stephane@scopyleft.fr
+Ou utilise ce service [inscription](https://www.eventbrite.fr/e/billets-walking-dev-jeux-creatifs-lilian-ricaud-et-stephane-langlois-32463592479)
