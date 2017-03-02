@@ -21,7 +21,7 @@ Pendant les trajets pour rejoindre le lieu suivant, on profitera  de la ballade 
 ### C'est quand et où ?
 
 La marche commencera le 15 mars à Toulouse à 9h à
-[https://lanartiste.org](L'anartiste) - [13, rue des Couteliers - Toulouse](http://www.openstreetmap.org/node/1532531242).
+[L'anartiste](https://lanartiste.org) - [13, rue des Couteliers - Toulouse](http://www.openstreetmap.org/node/1532531242).
 La journée se termine vers 18h30.
 
 ### C'est pour qui ?
@@ -40,7 +40,7 @@ Au moins 2, maximum 10, probablement 7 ou 8 !
 
 En gros, il faut ta bonne humeur, de l’eau, des noisettes ou des abricots secs et de quoi t’habiller confortablement pour marcher.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/trampolean/v34/prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/jeux-creatifs/blob/master/v31/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
