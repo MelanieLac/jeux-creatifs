@@ -66,10 +66,6 @@ Pour ce montant tu pourras manger, voyager et boire durant toute la journée.
 
 Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va bien trouver une solution.
 
-### Pourquoi Trampolean ?
-
-A toi d'imaginer le pourquoi du comment !
-
 #### Et si j'ai une question ?
 
 Tu peux contacter :
