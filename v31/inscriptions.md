@@ -14,4 +14,4 @@ Pour plus d'infos, consulte la FAQ
     Langlois - Stéphane - stephane@scopyleft.fr - @langlois_s
     Ricaud - Lilian - contact@lilianricaud.com - @lilious
     
-ou bien utilise eventbrite :[inscription](https://www.eventbrite.fr/e/billets-walking-dev-jeux-creatifs-lilian-ricaud-et-stephane-langlois-32463592479)
+ou bien utilise eventbrite : [inscription](https://www.eventbrite.fr/e/billets-walking-dev-jeux-creatifs-lilian-ricaud-et-stephane-langlois-32463592479)
