@@ -10,8 +10,9 @@ image_url:
 Pour t'inscrire, ajoute tes coordonnées en bas de la liste.
 Pour plus d'infos, consulte la FAQ
 
-    *nom - prénom - moyens de contact *
-    Langlois - Stéphane - stephane@scopyleft.fr - @langlois_s
-    Ricaud - Lilian - contact@lilianricaud.com - @lilious
+- *nom - prénom - moyens de contact *
+- Langlois - Stéphane - stephane@scopyleft.fr - @langlois_s
+- Ricaud - Lilian - contact@lilianricaud.com - @lilious
+- Tregan - Fabien - @ftregan
     
 ou bien utilise eventbrite : [inscription](https://www.eventbrite.fr/e/billets-walking-dev-jeux-creatifs-lilian-ricaud-et-stephane-langlois-32463592479)
