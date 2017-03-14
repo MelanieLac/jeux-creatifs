@@ -51,7 +51,7 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 15 min dans la
 
 ### Je m'inscris où ?
 
-En t'inscrivant sur [eventbrite](https://www.eventbrite.fr/e/billets-co-creer-ses-outils-creatifs-32855978115)
+En t'inscrivant sur [eventbrite](https://www.eventbrite.fr/e/billets-co-creer-ses-outils-creatifs-32857022238)
 
 ou
 

@@ -15,4 +15,4 @@ Ricaud - Lilian - contact@lilianricaud.com - @lilious
 
 
 
-Ou bien utilise ce service [inscription]()
+Ou bien utilise ce service [inscription](https://www.eventbrite.fr/e/billets-co-creer-ses-outils-creatifs-32857022238)
