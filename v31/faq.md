@@ -34,7 +34,7 @@ La journée se termine vers 18h00.
 
 ### On sera combien ?
 
-Au moins 2, maximum 10, probablement 7 ou 8 !
+À priori, nous serons 11.
 
 ### Il faut que je prévois des trucs ?
 
