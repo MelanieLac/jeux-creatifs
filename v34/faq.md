@@ -16,13 +16,13 @@ Aujourd'hui notre vocabulaire du faire ensemble est très limité: on "réunione
 
 Et si on enrichissait notre vocabulaire du faire-ensemble ?
 
-En explorant des lieux insolites dans Toulouse, on va échanger sur l'usage de jeux co-créatifs pour penser et faire ensemble. On passera d'un endroit à l'autre. On s'inspirera peut être de l'architecture des lieux où on se posera pour inspirer notre réflexion.
+En explorant des lieux insolites dans Montpellier, on va échanger sur l'usage de jeux co-créatifs pour penser et faire ensemble. On passera d'un endroit à l'autre. On s'inspirera peut être de l'architecture des lieux où on se posera pour inspirer notre réflexion.
 Pendant les trajets pour rejoindre le lieu suivant, on profitera  de la ballade pour débriefer sur la session que l'on vient de faire ou préparer la session suivante.
 
 ### C'est quand et où ?
 
-La marche commencera le 15 mars à Toulouse à 9h à
-[L'Anartiste](https://lanartiste.org) - [13, rue des Couteliers - Toulouse](http://www.openstreetmap.org/node/1532531242).
+La marche commencera le 28 mars à Montpellier à 9h à
+[Café Bun - 5, rue des étuves à Montpellier](http://osm.org/go/xVygEvf3l).
 La journée se termine vers 18h30.
 
 ### C'est pour qui ?
@@ -41,7 +41,7 @@ Au moins 2, maximum 10, probablement 7 ou 8 !
 
 En gros, il faut ta bonne humeur, de l’eau, des noisettes ou des abricots secs et de quoi t’habiller confortablement pour marcher.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/jeux-creatifs/blob/master/v31/prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/jeux-creatifs/blob/master/v34/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
@@ -51,11 +51,14 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 15 min dans la
 
 ### Je m'inscris où ?
 
-En t'inscrivant sur [eventbrite](https://www.eventbrite.fr/e/billets-walking-dev-jeux-creatifs-lilian-ricaud-et-stephane-langlois-32463592479)
+En t'inscrivant sur [eventbrite](https://www.eventbrite.fr/e/billets-co-creer-ses-outils-creatifs-32855978115)
 
 ou
 
 Tu peux aussi nous envoyer un petit mail : [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr) ou [contact@lilianricaud.com](mailto:contact@lilianricaud.com)
+
+ou t'ajouter :
+[sur la liste d'inscription](https://github.com/walkingdev/jeux-creatifs/blob/master/v34/inscriptions.md)
 
 ### Ça coûte combien cette petite escapade ?
 
