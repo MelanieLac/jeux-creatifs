@@ -18,5 +18,6 @@ Pour plus d'infos, consulte la FAQ
 - Pons- Tiphaine
 - Joly - Cassandre
 - Pinon - Stéphane
+- Chloé - Dalidet
     
 ou bien utilise eventbrite : [inscription](https://www.eventbrite.fr/e/billets-walking-dev-jeux-creatifs-lilian-ricaud-et-stephane-langlois-32463592479)
