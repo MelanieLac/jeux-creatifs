@@ -37,5 +37,5 @@ Versé => 247 €
 Par participant : 41  
 **Frais => 287,40**
 
-Bilan : +97,60 => 50
+Bilan : +97,60 => 50  
 Stéphane : (203,40)  
