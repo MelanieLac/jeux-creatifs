@@ -21,6 +21,7 @@ Versé => 247 €
 
 ### Préparation
 
+- L'estaminot : 9,90 (l)
 - Coffee Pot : 6,60 (s)
 - Galerie chateu d'eau : 7,00 (s)
 - Bol Bu : 8,20 (s)
@@ -28,7 +29,7 @@ Versé => 247 €
 
 ### Journée
 
-- L'estaminot : 84
+- L'estaminot : 76,10 (l)
 - Tomborero : 13,80 (s)
 - Home Sweet Home 23,60 (s)
 - Café Cerise : 39,50 (s)
