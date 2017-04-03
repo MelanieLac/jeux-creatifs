@@ -13,11 +13,11 @@ description: Compta
 ## Dépenses
 
 ### Logistique
-- Train Lilian : ? (l)
+- Covoit Lilian A/R : 30 (l)
 
 ### Préparation
-- ASF : (l)
-- L'olivier - Oranges pressées : (l)
+- ASF : 4,30 (l)
+- L'olivier - Oranges pressées : 13,70 (l)
 - Tielles : (s)
 - Boulangerie : (s)
 
